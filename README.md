@@ -15,7 +15,7 @@ rehabilitation-analysis/
 ├── run_deep_learning_experiment.py  # Train DL models only
 ├── run_deep_learning_experiment_no_vif.py # Train DL models (no VIF)
 ├── content/                         # Data directory (.mot files)
-│   └── XXX_gait_*.mot              # Kinematics data files
+│   └── XXX_gait_*.mot              # Kinematics data files (excluded here)
 ├── data_loader/
 │   └── kinematics_loader.py        # Data loading & preprocessing
 ├── experiments/
