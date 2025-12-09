@@ -5,6 +5,9 @@ Deep learning-based movement analysis system for patient diagnosis using biomech
 
 AI-powered system that analyzes human movement patterns from biomechanical data to assist in patient diagnosis. Uses state-of-the-art deep learning models (FT-Transformer, SAINT, TabNet, TabPFN) and traditional ML algorithms with SHAP/LIME explainability.
 
+## Data Availability
+The datasets analyzed during the current study are not publicly available due to copyright restrictions and privacy concerns.
+
 ## 🗂️ Project Structure
 
 ```
